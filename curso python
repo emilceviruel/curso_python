@@ -1,0 +1,13 @@
+CLASE 1
+
+na pagina web es un archivo html que puede ser estatico o dinamico
+el sitio web es un conjunto de paginas web que interactuan en un mismo dominio
+el dominio es la direccion web
+aplicacion web es un software desarrollado con lenguaje programatico que funciona desde el navegador
+las paginas web 
+alt+z acomoda los parrafos por defecto en la pagina web con respecto a la sangria
+target="_blank" sirve para que cuando se abra el link, se abra en otra ventana y no en la misma
+el live server me genera una IP local
+<a href="http://127.0.0.1:5500/curso.html"> volver al inicio</a> este codigo me abre otra pagina dentro de una seccion
+no importa los saltos de lineas, depende de las etiquetas: si quiero poner un enter tengo que codificarlo
+el div es un enter, el br es espacio entre parrafos

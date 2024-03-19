@@ -1,0 +1,24 @@
+* {
+background-color: black;
+color: whitesmoke;
+
+}
+/*todos los eleentos dentro del body tienen este estilo */
+
+h2{
+    color: chartreuse;
+    border: 1px solid lightcoral
+    ; border-radius: rgb(249, 238, 238);
+} /*esto modifica todos los h2 dentro del body*/
+
+/* para que no todos los h2 sean iguales*/
+
+.textodistinto {
+
+    background-color: blue ;
+}
+
+#unicosubtitulo {
+
+    color: rgb(189, 25, 3);
+}
